@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: FunRecreationCenter, Configuration: Debug Any CPU ------
+1>D:\FunRecreationCenter\FunRecreationCenter\Visitor.cs(9,11,9,22): error CS0260: Missing partial modifier on declaration of type 'VisitorInfo'; another partial declaration of this type exists
+1>D:\FunRecreationCenter\FunRecreationCenter\Visitor.cs(12,23,12,27): warning CS0108: 'VisitorInfo.Name' hides inherited member 'Control.Name'. Use the new keyword if hiding was intended.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
